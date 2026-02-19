@@ -3,7 +3,7 @@ package com.nativkod.schoolnoticeboard.data.paging
 import androidx.paging.*
 import androidx.room.withTransaction
 import com.nativkod.schoolnoticeboard.core.database.AppDatabase
-import com.nativkod.schoolnoticeboard.core.network.NoticeboardApi
+import com.nativkod.schoolnoticeboard.data.remote.api.NoticeboardApi
 import com.nativkod.schoolnoticeboard.core.util.DateFormatter
 import com.nativkod.schoolnoticeboard.data.local.entity.NoticeEntity
 import com.nativkod.schoolnoticeboard.data.local.entity.RemoteKeyEntity

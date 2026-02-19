@@ -1,7 +1,7 @@
 package com.nativkod.schoolnoticeboard.di
 
 import com.nativkod.schoolnoticeboard.core.network.AuthInterceptor
-import com.nativkod.schoolnoticeboard.core.network.NoticeboardApi
+import com.nativkod.schoolnoticeboard.data.remote.api.NoticeboardApi
 import com.nativkod.schoolnoticeboard.core.security.TokenStore
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory

@@ -1,4 +1,4 @@
-package com.nativkod.schoolnoticeboard.core.network
+package com.nativkod.schoolnoticeboard.data.remote.api
 
 import com.nativkod.schoolnoticeboard.data.remote.NoticePageDto
 import retrofit2.http.GET
